@@ -1,0 +1,9 @@
+exclude:
+  - README.markdown
+encoding: "utf-8"
+markdown: kramdown
+kramdown:
+  toc_levels: "2,3"
+highlighter: rouge
+sass:
+    style: compressed
